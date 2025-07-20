@@ -1,6 +1,8 @@
-# Code for the medium article:
-[Quarkus and LangChain4j: AI Integration in Java with locally hosted Ollama
-](https://medium.com/itnext/quarkus-and-langchain4j-ai-integration-in-java-with-locally-hosted-ollama-a304534e6bcc)
+> 📖 **Read the full article on Medium:**  
+> [Quarkus and LangChain4j: AI Integration in Java with locally hosted Ollama](https://medium.com/itnext/quarkus-and-langchain4j-ai-integration-in-java-with-locally-hosted-ollama-a304534e6bcc)  
+> Fast prototyping and playing around with AI and ML technologies are now possible in Java, too! 🧠 🤖
+
+
 # langchain-ollama
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
